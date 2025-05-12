@@ -57,12 +57,6 @@ This project integrates **computer vision** and **audio signal processing** to d
 
 ---
 
-## 📷 Example Use
-
-> You can add screenshots of an annotated image showing facial emotion detection and audio transcription results here.
-
----
-
 ## ⚠️ Note
 
 - The voice emotion classifier is a **placeholder model** trained on random data. Replace it with a real dataset for production use.
@@ -77,12 +71,6 @@ This project integrates **computer vision** and **audio signal processing** to d
 - Integrate with a real-time web interface using Streamlit or Flask.
 
 ---
-
-## 👩‍💻 Author
-
-**Dimple**  
-B.E. CSE | Naan Mudhalvan Project 2025  
-[LinkedIn Profile] (optional)
 
 ---
 
